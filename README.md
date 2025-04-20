@@ -1,6 +1,15 @@
-# bsc_thesis
+# Geomorphological Mapping using OBIA & Geomorphons
 
-## recommended folder structure
+This repository accompanies my thesis project focused on geomorphological landform mapping using object-based image analysis (OBIA), geomorphons, and spatial scripting.
+
+## 🗺️ Overview
+
+This study applies classification techniques using:
+- **ArcGIS Pro** for geomorphons, preprocessing and visualization
+- **eCognition Developer** for OBIA and rule-based classification
+- **Python scripting** (with ArcPy or GDAL) for landscape parameters
+
+## 📁 Folder Structure
 
 bsc_thesis/
 │

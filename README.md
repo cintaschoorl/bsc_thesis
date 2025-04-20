@@ -9,6 +9,10 @@ This study applies classification techniques using:
 - **eCognition Developer** for OBIA and rule-based classification
 - **Python scripting** (with ArcPy or GDAL) for landscape parameters
 
+### Used or installed packages
+- WhiteboxTools: LSP preprocessing with TO-scripting
+- GeoPandas: pandas with geometric data for spatial analyses
+
 ## 📁 Folder Structure
 
 bsc_thesis/

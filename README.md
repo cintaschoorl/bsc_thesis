@@ -12,6 +12,9 @@ This study applies classification techniques using:
 ### Used or installed packages
 - WhiteboxTools: LSP preprocessing with TO-scripting
 - GeoPandas: pandas with geometric data for spatial analyses
+- rasterio??
+- gdal??
+- matplotlib: visualizing statistical analyses
 
 ## 📁 Folder Structure
 

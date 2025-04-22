@@ -2,7 +2,7 @@
 data/
 
 # Ignore output files (optional)
-outputs/
+# outputs/
 
 # Ignore Jupyter Notebook checkpoints
 **/.ipynb_checkpoints/

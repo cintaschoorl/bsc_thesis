@@ -15,4 +15,5 @@ conda activate thesisenv
 # arcgis conda environment for arcpy etc
 conda create -n arcgisenv python=3.11 -y
 conda activate arcgisenv
+conda install -c esri arcpy=3.3
 

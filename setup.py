@@ -6,3 +6,8 @@ $ conda activate thesisenv
 $ pip install notebook
 $ pip install whitebox
 $ pip install numpy pandas matplotlib
+
+# navigate to repo-path and activate:
+$ cd ~/OneDrive/Documents/School/FPS/Scriptie/bsc_thesis
+$ conda activate thesisenv
+

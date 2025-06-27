@@ -20,7 +20,6 @@ bsc_thesis/
 ├── r_scripts/             # R scripts for classification analysis, confusion matrices, and plotting
       └── heatmap_input/     # Intermediate input files for heatmap generation
 ├── outputs/               # Output maps and tables generated during analysis
-├── .gitignore             # Specifies intentionally untracked files to ignore in Git
 └── README.md              # Project documentation (this file)
 
 

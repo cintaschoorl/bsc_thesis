@@ -15,17 +15,24 @@ This study applies classification techniques using:
 ## 📁 Folder Structure
 
 bsc_thesis/
+
 ├── arcpy_scripts/ 
+
 ├── r_scripts/  
-├── outputs/     
+
+├── outputs/   
+
 ├── docs/
+
 ├── .gitignore
+
 └── README.md
 
 
 ## 📊 Data Access
 
-The project package record can be accessed through Zenodo: DOI 10.5281/zenodo.15753787
+The project package record can be accessed through Zenodo: DOI 10.5281/zenodo.15753787.
+
 If you'd like access to the full dataset or scripts, ...
 
 

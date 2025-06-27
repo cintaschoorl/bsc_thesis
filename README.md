@@ -15,18 +15,14 @@ This study applies classification techniques using:
 ## 📁 Folder Structure
 
 bsc_thesis/
+├── arcpy_scripts/         # Python notebook for ArcPy-based geospatial processing
+├── ecognition/            # eCognition process tree ruleset
+├── r_scripts/             # R scripts for classification analysis, confusion matrices, and plotting
+├── outputs/               # Output maps and tables generated during analysis
+│   └── heatmap_input/     # Intermediate input files for heatmap generation
+├── .gitignore             # Specifies intentionally untracked files to ignore in Git
+└── README.md              # Project documentation (this file)
 
-├── arcpy_scripts/ 
-
-├── r_scripts/  
-
-├── outputs/   
-
-├── docs/
-
-├── .gitignore
-
-└── README.md
 
 
 ## 📊 Data Access

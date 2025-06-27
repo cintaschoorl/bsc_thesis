@@ -19,7 +19,7 @@ bsc_thesis
 ├── ecognition/            # eCognition process tree ruleset
 ├── outputs/               # Output maps, figures and tables generated during analysis
 ├── r_scripts/             # R scripts for classification analysis, confusion matrices, and plotting
-      └── heatmap_input/     # Intermediate input files for heatmap generation
+    └── heatmap_input/     # Intermediate input files for heatmap generation
 └── README.md              # Project documentation (this file)
 </code> </pre>
 

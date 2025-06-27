@@ -13,24 +13,25 @@ This study applies classification techniques using:
 
 
 ## 📁 Folder Structure
-
+<pre> <code> ```
 bsc_thesis/
 ├── arcpy_scripts/         # Python notebook for ArcPy-based geospatial processing
 ├── ecognition/            # eCognition process tree ruleset
+├── outputs/               # Output maps and tables generated during analysis
 ├── r_scripts/             # R scripts for classification analysis, confusion matrices, and plotting
       └── heatmap_input/     # Intermediate input files for heatmap generation
-├── outputs/               # Output maps and tables generated during analysis
 └── README.md              # Project documentation (this file)
-
+``` </code> </pre>
 
 
 ## 📊 Data Access
 
-The project package record can be accessed through Zenodo: DOI 10.5281/zenodo.15753787.
+The project archive is available via Zenodo:
+🔗 DOI: 10.5281/zenodo.15753787
 
-If you'd like access to the full dataset or scripts, ...
+If you'd like access to the full dataset or processing scripts, feel free to reach out.
 
 
 ## 📌 Notes
-* Raw 30m DEM and extension polygon were sourced from the Shuttle Radar Topography Mission, and delivered by dr. Edmore Kori (University of Venda).
-* All processing was done in ArcGIS Pro 3.4 and eCognition 10.3.
+* The 30 m DEM was sourced from the Shuttle Radar Topography Mission (SRTM) and  provided by Dr. Edmore Kori (University of Venda) along with a boundary polygon.
+* All geospatial processing was conducted using ArcGIS Pro 3.4 and eCognition Developer 10.3.

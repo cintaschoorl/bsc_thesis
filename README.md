@@ -13,15 +13,15 @@ This study applies classification techniques using:
 
 
 ## 📁 Folder Structure
-<pre> <code> ```
-bsc_thesis/
+<pre> <code>
+bsc_thesis
 ├── arcpy_scripts/         # Python notebook for ArcPy-based geospatial processing
 ├── ecognition/            # eCognition process tree ruleset
 ├── outputs/               # Output maps and tables generated during analysis
 ├── r_scripts/             # R scripts for classification analysis, confusion matrices, and plotting
       └── heatmap_input/     # Intermediate input files for heatmap generation
 └── README.md              # Project documentation (this file)
-``` </code> </pre>
+</code> </pre>
 
 
 ## 📊 Data Access

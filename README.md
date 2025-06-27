@@ -28,7 +28,6 @@ bsc_thesis
 
 The project archive is available via Zenodo:
 🔗 DOI: 10.5281/zenodo.15753787
-
 If you'd like access to the full dataset or processing scripts, feel free to reach out.
 
 

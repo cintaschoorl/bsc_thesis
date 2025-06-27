@@ -27,8 +27,9 @@ bsc_thesis
 ## 📊 Data Access
 
 The project archive is available via Zenodo:
-🔗 DOI: 10.5281/zenodo.15753787
-If you'd like access to the full dataset or processing scripts, feel free to reach out.
+🔗 DOI: 10.5281/zenodo.15755133
+
+If you'd like access to the full dataset, feel free to reach out.
 
 
 ## 📌 Notes

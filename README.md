@@ -1,6 +1,6 @@
 # Geomorphological Mapping using OBIA & Geomorphons
 
-This repository accompanies my bachelor thesis project at the University of Amsterdam, focused on improving geomorphological classification of the Soutpansberg mountain range, using object-based image analysis (OBIA) and geomorphons techniques.
+This repository accompanies my bachelor thesis project at the University of Amsterdam, focused on improving geomorphological classification of the Soutpansberg mountain range, through comparison of object-based image analysis (OBIA) and geomorphons techniques.
 
 
 ## 🗺️ Overview
